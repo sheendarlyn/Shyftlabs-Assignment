@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAByfI5a47mNsgqzR9KZFyXwQVtNEidKLSQliKbp4KXsA+V1WrvuLhmX2D+rXb2phbtKq2AGZlAhoZS3ZnPFzQ==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\Shyftlabs Assignment\\DevTechTest\\DevTechTestDAL\\DevTechTestDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHEEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SHEEN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
